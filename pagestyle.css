@@ -104,5 +104,5 @@ li:hover{
 }
 .coin:hover{
     filter: drop-shadow(2em 2em 6em #ffffffaa);
-    box-shadow: 2em 2em 6em #ffffffaa;
+    box-shadow:1em 1em 3em #ffffffaa;
 }
